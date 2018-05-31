@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Old style compass</string>
+    <string name="direction_degrees"> ˚</string>
+    <string name="calibrate_alert_title"><b>Calibrate your device</b></string>
+    <string name="calibrate_alert_text">
+    Before first use or any time needed, calibrate magnetic field sensor by drawing eight in the air with your device.
+    </string>
+    <string name="extras_calibrtion_value">EXTRAS_CALIBRATION</string>
+    <string name="boolean_true">true</string>
+    <string name="alert_ok_button">OK</string>
+</resources>
